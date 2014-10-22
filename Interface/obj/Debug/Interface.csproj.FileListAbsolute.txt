@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\bin\Debug\Interface.exe.config
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\bin\Debug\Interface.exe
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\bin\Debug\Interface.pdb
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\obj\Debug\Interface.exe
+C:\Users\Technologist\Documents\GitHub\MoreInterfaces\Interface\obj\Debug\Interface.pdb
